@@ -10,8 +10,8 @@ This dataset contains product data from Amazon, including various metadata relat
 ## Variables
  - reviewerID: User ID
  - asin: Product ID
- - reviewerName: User Name
- - helpful: Helpful rating score [helful_yes,total_vote]
+ - reviewerName: User name
+ - helpful: Helpful rating score [helpful_yes,total_vote]
  - reviewText: Review text
  - overall: Product rating
  - summary: Review summary
