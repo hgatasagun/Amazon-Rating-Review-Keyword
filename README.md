@@ -1,4 +1,4 @@
-# Amazon_Rating_Review_Keyword
+# Amazon Rating & Review Analysis
 
 ![Açıklama](https://github.com/hgatasagun/Amazon_RatingProduct_ReviewSorter/blob/main/Review.jpg)
 
