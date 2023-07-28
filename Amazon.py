@@ -51,7 +51,7 @@ df = pd.read_csv('/Users/handeatasagun/Documents/Github/Amazon_Rating_Review_Key
 # Data understanding
 ##############################################
 def check_df(dataframe, head=5):
-    print('################# Shape ################# ')
+    print('################# Columns ################# ')
     print(dataframe.columns)
     print('################# Types  ################# ')
     print(dataframe.dtypes)
